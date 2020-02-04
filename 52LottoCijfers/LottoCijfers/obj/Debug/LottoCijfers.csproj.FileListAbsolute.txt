@@ -1,0 +1,6 @@
+/Users/enrickdemunter/Projects/52LottoCijfers/LottoCijfers/bin/Debug/LottoCijfers.exe
+/Users/enrickdemunter/Projects/52LottoCijfers/LottoCijfers/bin/Debug/LottoCijfers.pdb
+/Users/enrickdemunter/Projects/52LottoCijfers/LottoCijfers/obj/Debug/LottoCijfers.csprojAssemblyReference.cache
+/Users/enrickdemunter/Projects/52LottoCijfers/LottoCijfers/obj/Debug/LottoCijfers.csproj.CoreCompileInputs.cache
+/Users/enrickdemunter/Projects/52LottoCijfers/LottoCijfers/obj/Debug/LottoCijfers.exe
+/Users/enrickdemunter/Projects/52LottoCijfers/LottoCijfers/obj/Debug/LottoCijfers.pdb
